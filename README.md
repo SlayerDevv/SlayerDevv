@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Housam or slayer</h1>
-<h3 align="center">A Algerian Developer</h3>
+<h3 align="center">Algerian Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slayerdevv&label=Profile%20views&color=0e75b6&style=flat" alt="slayerdevv" /> </p>
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_houssamhdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hox._m" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/slayer](https://www.youtube.com/@slayerdev007) dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slayer dev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@slayerdev007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slayer dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
