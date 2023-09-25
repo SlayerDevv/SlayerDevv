@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Personal Developments**
 
-- 🌱 I’m currently learning **React.js& C & C# & C++**
+- 🌱 I’m currently learning **C++ / C#**
 
-- 📫 You can contact me from **hdfhoussam18@gmail.com**
+- 📫 You can contact me from **slayer@slayerdev.xyz**
 
 - ⚡ Fun fact **I love cats ^^**
 
