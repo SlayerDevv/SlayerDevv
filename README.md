@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Housam or slayer</h1>
+<h1 align="center">Hi 👋, I'm Houssam or Slayer</h1>
 <h3 align="center">Algerian Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slayerdevv&label=Profile%20views&color=0e75b6&style=flat" alt="slayerdevv" /> </p>
