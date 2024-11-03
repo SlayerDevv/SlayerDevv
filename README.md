@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<h4 align="left">⋄ I'm Hadef Houssam Eddine from Algeria<br><br>⋄ 💻I’m working as Web Developer <br><br>⋄ 📚 I'm currently learning C / C++ <br><br>⋄ ⚙ In my free time I Code</h4>
+<h4 align="left"><p>⋄ I’m Hadef Houssam Eddine! I’m a full-stack developer and first-year computer science student, driven by a lifelong passion for tech. I love building digital experiences, exploring AI, and tackling new projects. Let’s connect and create something amazing!</p><br><br>⋄ 💻I’m working as Web Developer <br><br>⋄ 📚 I'm currently learning C / C++ <br><br>⋄ ⚙ In my free time I Code</h4>
 
 ###
 
